@@ -1,0 +1,3 @@
+<apex:page >
+  <c:Booking_Confirmation_comp idoff="a00p000000Aet4eAAB"></c:Booking_Confirmation_comp>
+</apex:page>
